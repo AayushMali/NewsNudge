@@ -23,9 +23,9 @@ The aim is to tackle misinformation by combining **AI models**, **retrieval meth
 ---
 
 ## Group Member
-Aayush Mali
-Rohit Mahajan
-Sarthak Padale
-Shreya Mhasurle
-Riddhi Katkar
+-Aayush Mali
+-Rohit Mahajan
+-Sarthak Padale
+-Shreya Mhasurle
+-Riddhi Katkar
 
