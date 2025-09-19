@@ -65,7 +65,7 @@ flowchart TD
 
 * Riddhi Katkar – ML Engineer (Model training for misinformation detection) @RiddhiKatkar
 
-* Sarthak Padale – Data Specialist (Dataset collection & preprocessing)
+* Sarthak Padale – Data Specialist (Dataset collection & preprocessing) @Sarthakpadale641
 
 * Shreya Mhasurle – Research & API Support (Resources & API integration)
 
