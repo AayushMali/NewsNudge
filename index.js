@@ -47,6 +47,7 @@ const logger = winston.createLogger({
 });
 
 const app = express();
+app.set('trust proxy', 1);
 app.use(express.json({ limit: '10mb' }));
 
 // CORS setup
