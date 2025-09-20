@@ -155,7 +155,7 @@ export default function Home() {
             </span>
           </h1>
           <p className="mb-6 text-gray-400 text-lg">
-            You're signed in as{" "}
+            You are signed in as{" "}
             <span className="font-semibold">{session.user?.email}</span>
           </p>
           <button
